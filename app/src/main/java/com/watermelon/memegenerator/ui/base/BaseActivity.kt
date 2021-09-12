@@ -1,4 +1,4 @@
-package com.watermelon.memegenerator.base
+package com.watermelon.memegenerator.ui.base
 
 import android.os.Bundle
 import android.view.LayoutInflater

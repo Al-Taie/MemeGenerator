@@ -1,10 +1,11 @@
-package com.watermelon.memegenerator
+package com.watermelon.memegenerator.ui
 
 import android.util.Log
 import android.view.LayoutInflater
 import android.widget.ArrayAdapter
 import com.bumptech.glide.Glide
-import com.watermelon.memegenerator.base.BaseActivity
+import com.watermelon.memegenerator.R
+import com.watermelon.memegenerator.ui.base.BaseActivity
 import com.watermelon.memegenerator.databinding.ActivityMainBinding
 import com.watermelon.memegenerator.util.Constant
 
